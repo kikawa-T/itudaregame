@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     @IBOutlet var dokodelabel: UILabel!
     @IBOutlet var daretolabel: UILabel!
     @IBOutlet var doshitalabel: UILabel!
+    //配列の作り方
     let itsuArray: [String] = ["一年前", "一週間", "昨日", "今日"]
     let dokodeArray: [String] = ["山の上で", "アメリカで", "学校で", "クラスで"]
     let daretoArray: [String] = ["僕が", "大統領が", "先生が", "友達が"]
